@@ -17,6 +17,13 @@ Fake News is a real problem . False information can increase social tensions, in
 <h3>Data Preprocessing and Cleaning</h3>
 
 <h3>Models</h3>
+<h4>Naive Bayes</h4>
+As the first model we trained the Naive Bayes model using Google Colab and PySpark. The model was choosen as its fast, accurate and reliable and works particularly well with Natural Language Processing. The model calculates the probability of each tag for a given text, but without considering features distribution.
+<br>The model was initially trained and run on the dataset cleaned with the TextHero library, but didn't achieve the desired accuracy. The results for training and testing data were 67% and 66% respectively.</p>
+<img src="https://github.com/DominikaRzez/project4_knights-of-the-round-tableau/blob/main/images/NB_TextHero_Classification.png?raw=true">
+<p>To improve the accuracy the model has been trained and run again on the dataset cleaned and preprocessed using NLTK library. This time the model resulted the accuracy above 90% for both training and testing data.</p>
+<img src="https://github.com/DominikaRzez/project4_knights-of-the-round-tableau/blob/main/images/NB_NLTK_Classification.png?raw=true">
+
 <h3>Models Optimisation and Evaluation</h3>
 <h3>Tableu Report</h3>
 <p>Scan the QR code below to see our report in Tableu</p>
