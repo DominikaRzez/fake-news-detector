@@ -15,3 +15,9 @@ Fake News is a real problem . False information can increase social tensions, in
 <p>Dataset obtained from Kaggle.com, two csv files - Fake.csv and True.csv containing 22,819 and 21,416 news articles respectively.</p>
 <img src="https://github.com/DominikaRzez/project4_knights-of-the-round-tableau/blob/main/images/fake-news.png?raw=true" width="400" height="300">
 <img src="https://github.com/DominikaRzez/project4_knights-of-the-round-tableau/blob/main/images/true-news.png?raw=true" width="400" height="300">
+<h3>Data Preprocessing and Cleaning</h3>
+<h3>Models</h3>
+<h3>Models Optimisation and Evaluation</h3>
+<h3>Tableu Report</h3>
+<p>Scan the QR code below to see our report in Tableu</p>
+<img src="https://github.com/DominikaRzez/project4_knights-of-the-round-tableau/blob/main/images/tableau-QR.png?raw=true">
