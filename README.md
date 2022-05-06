@@ -7,7 +7,6 @@
   <br>George Jeffries
   <br>James Fairgrieve
   <br>Ovidiu Serban</p>
-  <br>
 <h3>Introduction</h3>
 <p>The term fake news means “news, articles that are intentionally and verifiably false” designed to manipulate people’s perceptions of real facts, events, and statements. It’s about information presented as news that is known by its promoter to be false based on facts that are demonstrably incorrect, or statements or events that verifiably did not happen. 
 Fake News is a real problem . False information can increase social tensions, influence political elections , damage the reputation of a public figure, or even fuel conflicts between two countries.</p>
@@ -16,6 +15,7 @@ Fake News is a real problem . False information can increase social tensions, in
 <img src="https://github.com/DominikaRzez/project4_knights-of-the-round-tableau/blob/main/images/fake-news.png?raw=true" width="400" height="300">
 <img src="https://github.com/DominikaRzez/project4_knights-of-the-round-tableau/blob/main/images/true-news.png?raw=true" width="400" height="300">
 <h3>Data Preprocessing and Cleaning</h3>
+
 <h3>Models</h3>
 <h3>Models Optimisation and Evaluation</h3>
 <h3>Tableu Report</h3>
